@@ -212,7 +212,7 @@ var App = function (_React$Component2) {
     var _this3 = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
     _this3.state = {
-      deadline: '2020-05-31',
+      deadline: '2021-06-27',
       error: undefined,
       newDeadline: undefined
     };

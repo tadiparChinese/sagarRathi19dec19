@@ -493,8 +493,8 @@ function handleEscKey() {
 function handleTyping () {
   $(".element").typed({
     strings: [ "<strong>Life Coach by Profession</strong>", "<strong>An Engineer By Qualification</strong>", "<strong>Thinker And Writer By Choice</strong>", "<strong> An Academician</strong>"],
-    typeSpeed: 50,
-    starDelay: 200,
+    typeSpeed: 80,
+    starDelay: 300,
     backDelay: 600,
     loop: true,
     showCursor: true,
